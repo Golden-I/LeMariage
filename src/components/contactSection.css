@@ -1,0 +1,9 @@
+.contact-section {
+  background-image: url(../assets/contact.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Adjust the background image styles for different screen sizes */
+@media (max-width: 768px
